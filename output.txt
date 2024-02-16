@@ -1,0 +1,16 @@
+Vision Enhancing LLMs (VELLMs) are a type of language model that incorporates visual knowledge to enhance their capabilities. 
+The term "Vision" refers to the utilization of visual information to improve the understanding and generation of language.
+ VELLMs aim to leverage the vast knowledge and powerful text generation abilities of LLMs to produce multimodal 
+instruction-following responses. They can be seen as an extension of LLMs for vision, as they combine the strengths of both visual and linguistic understanding.
+
+The proposed approach, MKS2, focuses on improving LLMs with visual knowledge. It aims to equip LLMs with the ability to store external visual information
+ and tap into it when required, even in situations where direct visual input is not available. This allows VELLMs to have a better understanding of 
+ visual-language problems and generate more accurate and informative responses.
+
+VELLMs differ from previous approaches such as supervised fine-tuned (SFT) LLMs and multimodal LLMs. SFT LLMs neglect the potential of harnessing 
+visual knowledge to enhance overall capabilities, while multimodal LLMs focus solely on utilizing language models for visual understanding and reasoning. 
+VELLMs, on the other hand, aim to combine both linguistic and visual knowledge to produce more comprehensive and accurate responses.
+
+In summary, Vision Enhancing LLMs are a type of language model that incorporates visual knowledge to enhance their capabilities. 
+They leverage the strengths of both visual and linguistic understanding to produce multimodal instruction-following responses 
+and improve overall performance in visual-language tasks.
